@@ -1,0 +1,1 @@
+pip install fastapi uvicorn sqlalchemy pydantic python-jose passlib python-multipart google-auth-oauthlib google-api-python-client

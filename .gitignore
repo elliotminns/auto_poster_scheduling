@@ -36,7 +36,6 @@ celerybeat.pid
 *.sage.py
 .ipynb_checkpoints
 .python-version
-!backend/venv/requirements.txt
 
 # Backend - FastAPI specific
 backend/app.db
